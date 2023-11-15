@@ -82,11 +82,20 @@
   "name": "iWorld Walker Plugin",
   "description": "Illumine&Deadbull - World Walker plugin",
   "id": "iworldwalkerplugin-plugin",
-  "releases": [{
-    "date": "2023-11-15",
-    "sha512sum": "263F71F5B5FA7334BA62BF8EF1DD58B44A82AB81AF677237DEA6627642357A6B54C50AAD35798BABCD0AA56719B93C0D2ADF6DAE2569E6AEBCF9DCE9379C1B29",
-    "version": "10.0.1",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/master/release/iworldwalker-10.0.1.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-11-15",
+      "sha512sum": "263F71F5B5FA7334BA62BF8EF1DD58B44A82AB81AF677237DEA6627642357A6B54C50AAD35798BABCD0AA56719B93C0D2ADF6DAE2569E6AEBCF9DCE9379C1B29",
+      "version": "10.0.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/master/release/iworldwalker-10.0.1.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-11-15",
+      "sha512sum": "9AA3DCF7180BCB047FCAF1DEB541BF7DB5765C700A7039467B1DD8F842857E0AE3FCCF606F431B38FA4AFB3AA6A36CF4AD4242D6253E9284A10BFC2183C8C713",
+      "version": "10.0.2",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/master/release/iworldwalker-10.0.2.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
