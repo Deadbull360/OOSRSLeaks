@@ -1,6 +1,32 @@
 [{
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull (thx illumine)",
+  "name": "Chin break handler",
+  "description": "Automatically takes breaks for you (?)",
+  "id": "chinbreakhandler-plugin",
+  "releases": [{
+    "date": "2023-11-16",
+    "sha512sum": "1F2DE042E379C9CECDF5D560F9B3A6B9378180C6C59FA00988F1F5368A1451C3E48252359AF8124F83375A7A9FCEC1DA0CF23ED77DD13F9AC163247A07033A31",
+    "version": "5.0.0",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/chinbreakhandler-5.0.0.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/SS",
+  "provider": "Deadbull (thx illumine)",
+  "name": "iMouse Info Displayer",
+  "description": "Deadbull - Displays your ingame cursor info",
+  "id": "imouseinfodisplayer-plugin",
+  "releases": [{
+    "date": "2023-11-16",
+    "sha512sum": "10188E9ED1D0088B3536374B58A2B1ADE875720464840108554D6ACF1045B6C3A9327DCF090122872EC055556B9E213293CD307BE8274152C9FD3378128BF29F",
+    "version": "10.0.1",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/imouseinfodisplayer-10.0.1.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/SS",
+  "provider": "Deadbull (thx illumine)",
   "name": "iPowerfighter Plugin",
   "description": "Illumine&Deadbull - Powerfighter plugin",
   "id": "ipowerfighterplugin-plugin",
@@ -71,7 +97,7 @@
   "id": "iutils-plugin",
   "releases": [{
     "date": "2023-11-15",
-    "sha512sum": "5350A507067D6B56D5ECB64B144E8B7B3EF0B5D1DFB5FDE5CA008848869D7EDD8EED05D3A9EC38D0EF0EA80A80C98C92B02EF522C765CE827070F06AF9963F97",
+    "sha512sum": "7403ED096F71CD7A4CB3906C228CC96BA19BD294D2C9F20DE666A4DA20201C4686C3DD1F909D60D926EC29EEE921333F6A96AB1637C930D355EF7A90D93E51F9",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -83,10 +109,23 @@
   "description": "Illumine&Deadbull - World Walker plugin",
   "id": "iworldwalkerplugin-plugin",
   "releases": [{
-    "date": "2023-11-15",
-    "sha512sum": "263F71F5B5FA7334BA62BF8EF1DD58B44A82AB81AF677237DEA6627642357A6B54C50AAD35798BABCD0AA56719B93C0D2ADF6DAE2569E6AEBCF9DCE9379C1B29",
-    "version": "10.0.1",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.0.1.jar?raw=true",
+      "date": "2023-11-16",
+      "sha512sum": "5F9071900AF44D5261148B9EF425D77FBA5D847240502CA93A5D17C483C7D1822B2DDC53DD86D5C6201E45A4ACBCD7AE7D66F9B8A16E1DEC68A4E0CDDF3D621A",
+      "version": "10.0.5",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.0.5.jar?raw=true",
+      "requires": "^1.0.0"
+    }]
+}, {
+  "projectUrl": "https://discord.gg/SS",
+  "provider": "Deadbull (thx illumine)",
+  "name": "Motherlode Mine Bot",
+  "description": "Deadbulls Motherlode Mine bot plugin",
+  "id": "motherlodeminebot-plugin",
+  "releases": [{
+    "date": "2023-11-16",
+    "sha512sum": "0AF32266B2186908878D1E315B4A1BC3D43C447E417128C7521E771140E466BD94E32F9D7769446510D7CE83F10B9FAC12FB00EA682B5022AD043B9DF4AD364B",
+    "version": "1.5.0.0",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/motherlodebot-1.5.0.0.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }]
