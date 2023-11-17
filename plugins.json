@@ -32,7 +32,7 @@
   "id": "ipowerfighterplugin-plugin",
   "releases": [{
     "date": "2023-11-15",
-    "sha512sum": "94FD8C705628217858DE1DC3786B1854A77B1614D01ED945C35C1BA8F153458E2D991644D6A92D5173635F0F3979CA11CEB4334C9331719E5E7F0AAADA499269",
+    "sha512sum": "92AF405BE4FE216D5933B5FCC308F175E5BDB19D3EA4B8C0B9B7C37F3BAA1D9E14D4C57D40A14FB907052F995B484C24E1C07FC32021DE37D76EE6419BC62CC8",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfighter-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -109,12 +109,12 @@
   "description": "Illumine&Deadbull - World Walker plugin",
   "id": "iworldwalkerplugin-plugin",
   "releases": [{
-      "date": "2023-11-16",
-      "sha512sum": "5F9071900AF44D5261148B9EF425D77FBA5D847240502CA93A5D17C483C7D1822B2DDC53DD86D5C6201E45A4ACBCD7AE7D66F9B8A16E1DEC68A4E0CDDF3D621A",
-      "version": "10.0.5",
-      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.0.5.jar?raw=true",
-      "requires": "^1.0.0"
-    }]
+    "date": "2023-11-16",
+    "sha512sum": "5F9071900AF44D5261148B9EF425D77FBA5D847240502CA93A5D17C483C7D1822B2DDC53DD86D5C6201E45A4ACBCD7AE7D66F9B8A16E1DEC68A4E0CDDF3D621A",
+    "version": "10.0.5",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.0.5.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull (thx illumine)",
