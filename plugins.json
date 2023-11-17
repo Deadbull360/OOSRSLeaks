@@ -5,7 +5,7 @@
   "description": "Automatically takes breaks for you (?)",
   "id": "chinbreakhandler-plugin",
   "releases": [{
-    "date": "2023-11-16",
+    "date": "2023-11-18",
     "sha512sum": "1F2DE042E379C9CECDF5D560F9B3A6B9378180C6C59FA00988F1F5368A1451C3E48252359AF8124F83375A7A9FCEC1DA0CF23ED77DD13F9AC163247A07033A31",
     "version": "5.0.0",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/chinbreakhandler-5.0.0.jar?raw=true",
@@ -16,12 +16,12 @@
   "provider": "Deadbull (thx illumine)",
   "name": "iMouse Info Displayer",
   "description": "Deadbull - Displays your ingame cursor info",
-  "id": "imouseinfodisplayer-plugin",
+  "id": "imouseinfo-plugin",
   "releases": [{
-    "date": "2023-11-16",
+    "date": "2023-11-18",
     "sha512sum": "10188E9ED1D0088B3536374B58A2B1ADE875720464840108554D6ACF1045B6C3A9327DCF090122872EC055556B9E213293CD307BE8274152C9FD3378128BF29F",
     "version": "10.0.1",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/imouseinfodisplayer-10.0.1.jar?raw=true",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/imouseinfo-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
@@ -31,7 +31,7 @@
   "description": "Illumine&Deadbull - Powerfighter plugin",
   "id": "ipowerfighterplugin-plugin",
   "releases": [{
-    "date": "2023-11-15",
+    "date": "2023-11-18",
     "sha512sum": "92AF405BE4FE216D5933B5FCC308F175E5BDB19D3EA4B8C0B9B7C37F3BAA1D9E14D4C57D40A14FB907052F995B484C24E1C07FC32021DE37D76EE6419BC62CC8",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfighter-10.0.1.jar?raw=true",
@@ -44,7 +44,7 @@
   "description": "Illumine&Deadbull - Quest Assistant plugin",
   "id": "iquestassistant-plugin",
   "releases": [{
-    "date": "2023-11-15",
+    "date": "2023-11-18",
     "sha512sum": "E5709E9733B9991BBD984ECDC98C81C12AC3486E9088F520737E1E8BE7E63DB7A29A806AFD51B06EE4702733E173C99EF6B67E12B8794873905066BA80061BC0",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iquestassistant-10.0.1.jar?raw=true",
@@ -57,7 +57,7 @@
   "description": "Illumine&Deadbull - Auto eat food, consume potions and equip items",
   "id": "iquickeater-plugin",
   "releases": [{
-    "date": "2023-11-15",
+    "date": "2023-11-18",
     "sha512sum": "6815BEB10DD03E7B944556540B19A0203595A9C87E705F86CFB8E2F75C39F49DA3331E9140806859C621B183D7D8A80F6B0980B1FF2AFA02D8873A1EBB048A93",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iquickeater-10.0.1.jar?raw=true",
@@ -70,7 +70,7 @@
   "description": "illumine&Deadbull - Dismiss random events and handle genie",
   "id": "irandomhandler-plugin",
   "releases": [{
-    "date": "2023-11-15",
+    "date": "2023-11-18",
     "sha512sum": "9FDBBF08FF1CF6584EC62EFF5A5472E48856C4B8555608E885CC0441CF094B441027E4A34D0BEC41038477C264F542BE62DA0057C79078569355E5D0AAC02EA6",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/irandomhandler-10.0.1.jar?raw=true",
@@ -83,7 +83,7 @@
   "description": "Illumine&Deadbull - Automated rooftop agility plugin",
   "id": "irooftopagility-plugin",
   "releases": [{
-    "date": "2023-11-15",
+    "date": "2023-11-18",
     "sha512sum": "2AEEEB8DEE87D6F9AE6BDFA115FA7267A520D63142E28B4FF53FE304296ADC16F8DB05D99581F7F040836931F919D3B3D75751E5A8E01E0BADF26392A8693A14",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/irooftopagility-10.0.1.jar?raw=true",
@@ -96,7 +96,7 @@
   "description": "Illumine&Deadbull - Utils required for plugins to function with added automation",
   "id": "iutils-plugin",
   "releases": [{
-    "date": "2023-11-15",
+    "date": "2023-11-18",
     "sha512sum": "7403ED096F71CD7A4CB3906C228CC96BA19BD294D2C9F20DE666A4DA20201C4686C3DD1F909D60D926EC29EEE921333F6A96AB1637C930D355EF7A90D93E51F9",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.0.1.jar?raw=true",
@@ -109,7 +109,7 @@
   "description": "Illumine&Deadbull - World Walker plugin",
   "id": "iworldwalkerplugin-plugin",
   "releases": [{
-    "date": "2023-11-16",
+    "date": "2023-11-18",
     "sha512sum": "5F9071900AF44D5261148B9EF425D77FBA5D847240502CA93A5D17C483C7D1822B2DDC53DD86D5C6201E45A4ACBCD7AE7D66F9B8A16E1DEC68A4E0CDDF3D621A",
     "version": "10.0.5",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.0.5.jar?raw=true",
@@ -123,9 +123,9 @@
   "id": "motherlodeminebot-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "BF83027B66CC257F93B39AD0B333AB64CC3BF147288E7A16E1B11DF8CBE1B098EF925E21C7FF3D35A4AA554D6ABCC713AA2BF873FD7118DD3970D48B8BD045D7",
+    "sha512sum": "DCD783B16437C400D99FE06D9FDADCB1BE57FC7F9DEEAB2EC7C319B4EF06069413CEED1D8A17B701F3E80BCE03ADA726DACF83152295B5B6D426B26DB0FBAEB7",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/motherlodebot-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
-    }]
+  }]
 }]
