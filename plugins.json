@@ -122,10 +122,10 @@
   "description": "Deadbulls Motherlode Mine bot plugin",
   "id": "motherlodeminebot-plugin",
   "releases": [{
-    "date": "2023-11-16",
-    "sha512sum": "185C47929B946475ABE6B62A4D589455AC5DA46A193E80BD9FCD8E4816455079552E9693366C30B4E3B089A1CD8BC33E394EC7933DA6CCB49305010C9A66D9CD",
-    "version": "1.5.0.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/motherlodebot-1.5.0.0.jar?raw=true",
+    "date": "2023-11-18",
+    "sha512sum": "BF83027B66CC257F93B39AD0B333AB64CC3BF147288E7A16E1B11DF8CBE1B098EF925E21C7FF3D35A4AA554D6ABCC713AA2BF873FD7118DD3970D48B8BD045D7",
+    "version": "10.0.1",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/motherlodebot-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
-  }]
+    }]
 }]
