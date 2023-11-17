@@ -16,7 +16,7 @@
   "provider": "Deadbull (thx illumine)",
   "name": "iMouse Info Displayer",
   "description": "Deadbull - Displays your ingame cursor info",
-  "id": "imouseinfo-plugin",
+  "id": "imouseinfodisplayer-plugin",
   "releases": [{
     "date": "2023-11-18",
     "sha512sum": "10188E9ED1D0088B3536374B58A2B1ADE875720464840108554D6ACF1045B6C3A9327DCF090122872EC055556B9E213293CD307BE8274152C9FD3378128BF29F",
