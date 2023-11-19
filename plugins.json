@@ -6,7 +6,7 @@
   "id": "chinbreakhandler-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "1F2DE042E379C9CECDF5D560F9B3A6B9378180C6C59FA00988F1F5368A1451C3E48252359AF8124F83375A7A9FCEC1DA0CF23ED77DD13F9AC163247A07033A31",
+    "sha512sum": "7F26A8F529FEE7D58100EDBEB6BFA24749411142A587F2E798E88B5D19E3CA1A76FE495A5E7253A5D0721A84D346629080596827F9373D86FB493B3D62281F23",
     "version": "5.0.0",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/chinbreakhandler-5.0.0.jar?raw=true",
     "requires": "^1.0.0"
@@ -19,7 +19,7 @@
   "id": "imouseinfodisplayer-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "4A73EAB685EAD35145E5B302CF120EE8FD41B472F38CD81C98264B2980B5B5C405406202425FC582419733C22386578B17E38B0520A02C0737B40E3F759D95A3",
+    "sha512sum": "63E4F823A1D3BDF991C0B7F30D796747611D369A5AB7543A030CD594672DF99EDF2359DB6EA5445EE5853C2B5ED09C464EE7D452335DE2669BE15BD31EFF68AA",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/imouseinfo-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -32,9 +32,22 @@
   "id": "ipowerfighterplugin-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "92AF405BE4FE216D5933B5FCC308F175E5BDB19D3EA4B8C0B9B7C37F3BAA1D9E14D4C57D40A14FB907052F995B484C24E1C07FC32021DE37D76EE6419BC62CC8",
+    "sha512sum": "BA75D51ACEB2A3DF0C0A16FF15A587A3A433D61FD4F5976D3F60FDB83AA79320047369F3F9C010AC0771B45320062E374C4102253C94A41FD0473CCC6524C1A3",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfighter-10.0.1.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/SS",
+  "provider": "Deadbull",
+  "name": "iPowerminer Plugin",
+  "description": "Deadbull - Powerminer plugin",
+  "id": "ipowerminerplugin-plugin",
+  "releases": [{
+    "date": "2023-11-19",
+    "sha512sum": "32DE7A79B416E745DD6B03B58052118A275EAB496C61F0533DD4E00A9F7124AD86A2EE4C3DCF476F0E22729B84D6331F77D9B667E00C63C310A5CBF1D7C71AE2",
+    "version": "10.0.1",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerminer-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
@@ -45,7 +58,7 @@
   "id": "iquestassistant-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "E5709E9733B9991BBD984ECDC98C81C12AC3486E9088F520737E1E8BE7E63DB7A29A806AFD51B06EE4702733E173C99EF6B67E12B8794873905066BA80061BC0",
+    "sha512sum": "88AF3A303F96CF6F2F79D3F1DA912EEF122BD6545C2E706C9A16C261DD60D04175E08831BF09A5BFC4CDBBBAFDD86A00A90EF4B87725DDB3665E59D059C2B0D1",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iquestassistant-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -58,7 +71,7 @@
   "id": "iquickeater-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "60EEDA4FE908B0EF33A94E499B64B2AAB4E7EEC0BA5B8AAD38A4C2AB7BE45B54AC960C9FC389C412DEDD2AC59452EBDD33C7D3F2ADD4D3BE6C4102C2F9D42C66",
+    "sha512sum": "D914BB58C0EF7062DAA758A414955AE3770F9D28F73FE3B1177DF49476DE6212A565BB0676FAB5F1E276D3A0A152687656CD68573AE5F7F71FE9B964D7E602DB",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iquickeater-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -71,7 +84,7 @@
   "id": "irandomhandler-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "9FDBBF08FF1CF6584EC62EFF5A5472E48856C4B8555608E885CC0441CF094B441027E4A34D0BEC41038477C264F542BE62DA0057C79078569355E5D0AAC02EA6",
+    "sha512sum": "60C7A860FDFC2DE487DA9B3E993A8716B628B0A42473625F2283B1144538A9698C2DB82398C177D8FA8034C0F3D35672038D863BA38B6CACD00016E3825C6C68",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/irandomhandler-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -84,7 +97,7 @@
   "id": "irooftopagility-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "2AEEEB8DEE87D6F9AE6BDFA115FA7267A520D63142E28B4FF53FE304296ADC16F8DB05D99581F7F040836931F919D3B3D75751E5A8E01E0BADF26392A8693A14",
+    "sha512sum": "732FC3BF5082B1335191D672FC9B6B5D6575230939607A96413B52DF30D0FAA7DCE443B36702F96BBA012A4FCE3BB1A72BCF126DA7E5B75DE8AE66DD8B587E50",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/irooftopagility-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -97,7 +110,7 @@
   "id": "iutils-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "7403ED096F71CD7A4CB3906C228CC96BA19BD294D2C9F20DE666A4DA20201C4686C3DD1F909D60D926EC29EEE921333F6A96AB1637C930D355EF7A90D93E51F9",
+    "sha512sum": "CFFCA4D8251FE0AA6CF5541AED8A6CBC1DC55C2BC6C3204D652C111942FFD9FC4723AC518628290D1FBBF52873B33BF517B931EC2F6BA2A1AB194F89072A067B",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.0.1.jar?raw=true",
     "requires": "^1.0.0"
@@ -110,7 +123,7 @@
   "id": "iworldwalkerplugin-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "5F9071900AF44D5261148B9EF425D77FBA5D847240502CA93A5D17C483C7D1822B2DDC53DD86D5C6201E45A4ACBCD7AE7D66F9B8A16E1DEC68A4E0CDDF3D621A",
+    "sha512sum": "BC6DC77363953F8FA5C1A2FA2A67B918A3CAC8B74488A96B9EB70D1378B3F215A9B0F80229D971351E6F1D4BADA070DE282B415E51C79815C2B5A346EDC93158",
     "version": "10.0.5",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.0.5.jar?raw=true",
     "requires": "^1.0.0"
@@ -123,9 +136,22 @@
   "id": "motherlodeminebot-plugin",
   "releases": [{
     "date": "2023-11-18",
-    "sha512sum": "DCD783B16437C400D99FE06D9FDADCB1BE57FC7F9DEEAB2EC7C319B4EF06069413CEED1D8A17B701F3E80BCE03ADA726DACF83152295B5B6D426B26DB0FBAEB7",
+    "sha512sum": "A0D20248CEBB9FDB7647E49A33FBC9269AA72BD41F3B89C6E509E4000E7E18EED5D3B227CB12A9185CD349EA4E413ABE6EC9355BCD76882C883076EF0CAD7C1E",
     "version": "10.0.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/motherlodebot-10.0.1.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/SS",
+  "provider": "Deadbull",
+  "name": "PK Tools V2",
+  "description": "Arsenal of PKing Tools",
+  "id": "pktoolsv-plugin",
+  "releases": [{
+    "date": "2023-11-18",
+    "sha512sum": "A98158D76CE03A6AE0439850D2E361337D37FEBC1E78AAB76253EE8AE48328709A5916A68E29812A821EA94D02B0FE18BE2DFD0E3AEDF607D3E885971A0B0A68",
+    "version": "1.2.6",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/pktools-1.2.6.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }]
