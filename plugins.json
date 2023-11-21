@@ -18,12 +18,12 @@
   "description": "Deadbull - Displays your ingame cursor info",
   "id": "imouseinfodisplayer-plugin",
   "releases": [{
-    "date": "2023-11-20",
-    "sha512sum": "B3CA7135D7119E97FB5E5B03EA18AF5C896036D26186E359CB92D1FC1E3CD08A9A8186BA8723B2159D17ED7984763F9940082F15F9B3840A939CEA89B4306320",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/imouseinfo-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+      "date": "2023-11-21",
+      "sha512sum": "572D3B6A360EA5FAADF7117A3B0246C89D4603FD70A9EC2858ADC358D386C5E385F8F3277FA0EA8A2737F43B4BF0F7E7B3A0B8EAAE8FCA716760634D32C790D4",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/imouseinfo-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
@@ -139,6 +139,19 @@
     "sha512sum": "3365F6A976A025DFC5DBA11834C62AFC388B72E48BB909375CA67EFED0D4DAC0CCB98DBA17CD88C4B1494D2C806E1F33C905C4A85320FEBBE36A0F5B4029C5BC",
     "version": "10.1.0",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.1.0.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/SS",
+  "provider": "Deadbull",
+  "name": "ssWintertodt",
+  "description": "Wintertodt Bot",
+  "id": "sswintertodt-plugin",
+  "releases": [{
+    "date": "2023-11-21",
+    "sha512sum": "42FEFDCD50B586A849D1948890EBB50C87CF5A416BE3F4F04874E18CDDBF6C2090F875733F715FC4FDB8D5EF50BED36DBE12F64E8A2AA8DCEF8B0F23B5813935",
+    "version": "1.0.0",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/m-wintertodt-1.0.0.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
