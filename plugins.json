@@ -17,26 +17,44 @@
   "name": "iFishingTrawler Plugin",
   "description": "Deadbull - Fishing Trawler plugin",
   "id": "ifishingtrawlerplugin-plugin",
-  "releases": [{
-    "date": "2023-12-02",
-    "sha512sum": "B25A7C710B0443A9BAAB7CA68AC70531D623968FD16B771273BF530D0B6DB55956A404A09801B94961DC4C840628EC499349C056D43EBEC1D3DEA49A91D8F2E8",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ifishingtrawler-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-12-02",
+      "sha512sum": "D9FCDF23786C8FEC93B47890C7BD1BF00E5058DA87B3985F34156E91F2DD25061DBFEAA1081C514E1016610BB9102EEE1874092298237F028E060464014DE69C",
+      "version": "10.1.0",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ifishingtrawler-10.1.0.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-12-06",
+      "sha512sum": "E7BDAFDC4E1EE83D3556A66944DA850CB7CE5CFA5A8A224A6E0AF61E48A2004F6FAEB633F13011EEC8CA3E7E6074516F5E60554547F4360AEB3056464629B029",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ifishingtrawler-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
   "name": "iKarambwans",
   "description": "Deadbull - Karambwans fisher",
   "id": "ikarambwans-plugin",
-  "releases": [{
-    "date": "2023-12-06",
-    "sha512sum": "16400E9505B14841126636E8F203BC82FBA02BA1DAF260696A89DC9041C64012389B35882602F386AFFF295C479E4C96FCB9C47FAEE9880E98530D84A0057B86",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ikarambwans-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-12-06",
+      "sha512sum": "E00C4B2E552EBC24DDE32B186D238A52B526D85F77BBEBADFDC545C42AB4AB528D7BADD7739542270E441C89D4526AF70C2B8B42BC294F2B97BB5BE839E335C1",
+      "version": "10.1.0",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ikarambwans-10.1.0.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-12-06",
+      "sha512sum": "D30965F2CFDDBA33F18863F91A9E3DEBDF5302E5DE912498B0059D9FCFAC224EF251182744A25A0567CE996B429777DE9160CD406DD4025F819BD4B01ED90F3D",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ikarambwans-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
@@ -173,13 +191,22 @@
   "name": "iUtils",
   "description": "Illumine&Deadbull - Utils required for plugins to function with added automation",
   "id": "iutils-plugin",
-  "releases": [{
-    "date": "2023-11-20",
-    "sha512sum": "5B3448C58CCCDF7577DBD01FF865191219F0B1828500CA7F9F8BFE438C69A412BB9676D171470254C5F36F2A137E89029D964DC857FC83A2161527515A6B6946",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2023-11-20",
+      "sha512sum": "272F8E433D21A5BBFE6C7C2D5BB972B43BC795D2ECEB6049BC23B0C424F982B60F5B018A8ACE9CB46A6AD31A3546E87F3136D3958401D48E96C331DE0814F248",
+      "version": "10.1.0",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.1.0.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-12-06",
+      "sha512sum": "A167A6DD721BCEA92537C165BBD5E4A23C94E58441D7A3F8653A5AA21A0E8CF7AFD129DC4E801E985D4DD03AFE4631FABF5446FE50957BD53142CE7495F78FB1",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
