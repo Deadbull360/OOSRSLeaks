@@ -201,9 +201,9 @@
   "id": "iworldwalkerplugin-plugin",
   "releases": [{
     "date": "2023-12-07",
-    "sha512sum": "5FB14D50835E13F222C9AB775C2A4617BF773E335931307D7D19963150DDEB6B4917E117D9860FDA9D712F54EA0B857E9A9AB40E5440056D16EAE88968B8E021",
-    "version": "10.1.2",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.1.2.jar?raw=true",
+    "sha512sum": "96C12D5CD6E2D09DB44BA65F051F5B19740EA2E0E60F92AB0359D8E10A562A6663F0BF8587823666A520C8D0305962334CA6D47EB9B1AEC64F143B9C89FA7C57",
+    "version": "10.1.3",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.1.3.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
