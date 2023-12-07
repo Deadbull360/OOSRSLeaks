@@ -17,44 +17,26 @@
   "name": "iFishingTrawler Plugin",
   "description": "Deadbull - Fishing Trawler plugin",
   "id": "ifishingtrawlerplugin-plugin",
-  "releases": [
-    {
-      "date": "2023-12-02",
-      "sha512sum": "D9FCDF23786C8FEC93B47890C7BD1BF00E5058DA87B3985F34156E91F2DD25061DBFEAA1081C514E1016610BB9102EEE1874092298237F028E060464014DE69C",
-      "version": "10.1.0",
-      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ifishingtrawler-10.1.0.jar?raw=true",
-      "requires": "^1.0.0"
-    },
-    {
+  "releases": [{
       "date": "2023-12-06",
       "sha512sum": "E7BDAFDC4E1EE83D3556A66944DA850CB7CE5CFA5A8A224A6E0AF61E48A2004F6FAEB633F13011EEC8CA3E7E6074516F5E60554547F4360AEB3056464629B029",
       "version": "10.1.1",
       "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ifishingtrawler-10.1.1.jar?raw=true",
       "requires": "^1.0.0"
-    }
-  ]
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
   "name": "iKarambwans",
   "description": "Deadbull - Karambwans fisher",
   "id": "ikarambwans-plugin",
-  "releases": [
-    {
-      "date": "2023-12-06",
-      "sha512sum": "E00C4B2E552EBC24DDE32B186D238A52B526D85F77BBEBADFDC545C42AB4AB528D7BADD7739542270E441C89D4526AF70C2B8B42BC294F2B97BB5BE839E335C1",
-      "version": "10.1.0",
-      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ikarambwans-10.1.0.jar?raw=true",
-      "requires": "^1.0.0"
-    },
-    {
+  "releases": [{
       "date": "2023-12-06",
       "sha512sum": "D30965F2CFDDBA33F18863F91A9E3DEBDF5302E5DE912498B0059D9FCFAC224EF251182744A25A0567CE996B429777DE9160CD406DD4025F819BD4B01ED90F3D",
       "version": "10.1.1",
       "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ikarambwans-10.1.1.jar?raw=true",
       "requires": "^1.0.0"
-    }
-  ]
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
@@ -71,16 +53,29 @@
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
+  "name": "iPowerCooker Plugin",
+  "description": "Deadbull - Power Cooker plugin",
+  "id": "ipowercookerplugin-plugin",
+  "releases": [{
+    "date": "2023-12-07",
+    "sha512sum": "D2113E3023E8E713DDE5E62CA071E4572FF4BB18971B7AC283FFAB328C30B4E701F87E3E1FDA6FF3BAAE863F299C3670A020864DABE2B0D4EA024CBC3AA4DB74",
+    "version": "10.1.0",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowercooker-10.1.0.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://discord.gg/SS",
+  "provider": "Deadbull",
   "name": "iPowerfighter Plugin",
   "description": "Illumine&Deadbull - Powerfighter plugin",
   "id": "ipowerfighterplugin-plugin",
   "releases": [{
-    "date": "2023-11-20",
-    "sha512sum": "2B2256A0DE6BECFB1FB5BA577ABCB96B63C826C305739EC8B0DFC2F43016F5979C6F4F940096C4CB62BFCCF7B01DDDBF47B1ABD625D2EE8145FB3880DA69E5F4",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfighter-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+      "date": "2023-12-07",
+      "sha512sum": "8B501B894BDE096C8D9CE7FB1FA182C9C2C1E22FF1799ED2E5E7861EA407CBDCD7BF04795105D1D96398577E02A8A5EE3E63032980770CBB903C73281458A854",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfighter-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
@@ -88,12 +83,12 @@
   "description": "Deadbull - Powerfisher plugin",
   "id": "ipowerfisherplugin-plugin",
   "releases": [{
-    "date": "2023-11-20",
-    "sha512sum": "E622D1A9263EB0BF26886BA5190E3B7C2FA33741AB874E4EE74D83E85C29710DAE50948511488BCE3F257A7AFBB6329351715F5F671ABC1E880CE3603C0B81CB",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfisher-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+      "date": "2023-12-07",
+      "sha512sum": "EF524541B63F915177B893131C5ADB80788020D875116F1717BB94B4E29CE1E0A3228B853B89E5888E2DFADA5F63FBBC2E508EE978FD481BCE5881D82EA41E5D",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfisher-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
@@ -101,12 +96,12 @@
   "description": "Deadbull - Powerminer plugin",
   "id": "ipowerminerplugin-plugin",
   "releases": [{
-    "date": "2023-11-20",
-    "sha512sum": "5C91428822D96CFD974497DCD318BEE3FC92C272A083262D9559A695EF98C363527888D2D8D74A5B29424D507737EFDD78FC1CD86313193AE2AF64A1AC015F38",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerminer-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+      "date": "2023-12-07",
+      "sha512sum": "7A8BC6156D26E63A8BD818598C2645396D80596B4D74DEF225E4ED31C7C083EC4B2F531922A73648848E6A5AB09AF158496FD4646CE9E7A61C64AB4CD68E4697",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerminer-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
@@ -115,7 +110,7 @@
   "id": "ipowerthieverplugin-plugin",
   "releases": [{
     "date": "2023-12-02",
-    "sha512sum": "453F53D0EA6C3A4F31C5E1B3F32A061B5218A64215E2409B7EEB7844067819B25973345D68B60B1D6A2C469FDE0EA90A6B98086BE2F021E5CA973F9E2BB73F3C",
+    "sha512sum": "7B2F78C1011782FCF6630DD89561143391DDBEB26D05871718E4FB96523C5177C3D2C46D16084A84383C1A6FA35A222EF72DAACB37ED0E5D533539350082CD67",
     "version": "10.1.0",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerthiever-10.1.0.jar?raw=true",
     "requires": "^1.0.0"
@@ -127,12 +122,12 @@
   "description": "Deadbull - Power Woodcutter plugin",
   "id": "ipowerwoodcutterplugin-plugin",
   "releases": [{
-    "date": "2023-12-04",
-    "sha512sum": "7686FC3656684286D43B305079413553D33DC1B712DA2B08617E70586E0120D00BB14DFBF075C03C43DBD20155B635AE66CEE81045C54AEABB997D4572FF7CD9",
-    "version": "10.1.0",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerwoodcutter-10.1.0.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+      "date": "2023-12-07",
+      "sha512sum": "1B5C857FED64D3790DE08631D49049C2146BFE82483A49FF0A2AF28A12A9B2DEDF4426931F72EC0DA11FF29C0CA035740B67AF97070FE43B25B543238B4D1825",
+      "version": "10.1.1",
+      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerwoodcutter-10.1.1.jar?raw=true",
+      "requires": "^1.0.0"
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
@@ -191,44 +186,26 @@
   "name": "iUtils",
   "description": "Illumine&Deadbull - Utils required for plugins to function with added automation",
   "id": "iutils-plugin",
-  "releases": [
-    {
-      "date": "2023-11-20",
-      "sha512sum": "272F8E433D21A5BBFE6C7C2D5BB972B43BC795D2ECEB6049BC23B0C424F982B60F5B018A8ACE9CB46A6AD31A3546E87F3136D3958401D48E96C331DE0814F248",
-      "version": "10.1.0",
-      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.1.0.jar?raw=true",
-      "requires": "^1.0.0"
-    },
-    {
+  "releases": [{
       "date": "2023-12-06",
       "sha512sum": "A167A6DD721BCEA92537C165BBD5E4A23C94E58441D7A3F8653A5AA21A0E8CF7AFD129DC4E801E985D4DD03AFE4631FABF5446FE50957BD53142CE7495F78FB1",
       "version": "10.1.1",
       "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.1.1.jar?raw=true",
       "requires": "^1.0.0"
-    }
-  ]
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
   "name": "iWorld Walker Plugin",
   "description": "Illumine&Deadbull - World Walker plugin",
   "id": "iworldwalkerplugin-plugin",
-  "releases": [
-    {
-      "date": "2023-11-20",
-      "sha512sum": "9DFBFBB428A770F515C539018DDBC39D5F62DFFD7AF1674D869FF4F3D03A9C178F0FDE2DFF75B88BAB9D253B0701CB1A4983AB90F7FAD259DF040FC843B6DC6F",
-      "version": "10.1.0",
-      "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.1.0.jar?raw=true",
-      "requires": "^1.0.0"
-    },
-    {
+  "releases": [{
       "date": "2023-12-06",
       "sha512sum": "961E1188C6EEF28EC3C7AD39F628CB3B1CDB827198E1448E98C9181ACD9118764892ECEB2ACDF76771F817810096AC80694E197C539F52E7EC925F682AC3E141",
       "version": "10.1.1",
       "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.1.1.jar?raw=true",
       "requires": "^1.0.0"
-    }
-  ]
+    }]
 }, {
   "projectUrl": "https://discord.gg/SS",
   "provider": "Deadbull",
