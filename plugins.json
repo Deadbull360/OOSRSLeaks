@@ -57,10 +57,10 @@
   "description": "Deadbull - Power Cooker plugin",
   "id": "ipowercookerplugin-plugin",
   "releases": [{
-    "date": "2023-12-07",
-    "sha512sum": "7FC4E08AB0351089C1F5DED88BCCD9F39EB45AEBEE354E223C1B40530732086557348F6854878A97B9495876804B339A22892414064E90585981E65DA215DE24",
-    "version": "10.1.3",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowercooker-10.1.3.jar?raw=true",
+    "date": "2023-12-08",
+    "sha512sum": "FC5E9119FC5776C08FFBF1DECF4C29EE27396AA26BD44601EE9588D736D0CBA259C60DCCBCF561FFDF72DFDA889B95BCC75158A02015802AFC95366EBF1F6450",
+    "version": "10.1.4",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowercooker-10.1.4.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
