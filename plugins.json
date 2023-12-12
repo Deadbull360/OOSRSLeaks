@@ -5,10 +5,10 @@
   "description": "Automatically takes breaks for you (?)",
   "id": "chinbreakhandler-plugin",
   "releases": [{
-    "date": "2023-12-07",
-    "sha512sum": "6543472AF02B3E42E7B6260AF89964D2776D078827991AC2C9F5BEE4835B91BA01CD47DB8F321053A5D390402BFB0F940911689529B34CDBF2DF3224AF1B1E1E",
-    "version": "5.0.2",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/chinbreakhandler-5.0.2.jar?raw=true",
+    "date": "2023-12-12",
+    "sha512sum": "E88A0283692E6813E73B7103C9FBD913ED58142740DCF6C1183F6219F8C76435671C0E4C37AC0B276E237EADA7CBFD49ACF0E3F7B1059199E477E4AEAD1FDA59",
+    "version": "5.0.3",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/chinbreakhandler-5.0.3.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
@@ -175,7 +175,7 @@
   "id": "irooftopagility-plugin",
   "releases": [{
     "date": "2023-12-12",
-    "sha512sum": "5C1D4449FE26786252D08EAA9CA70F3EB84C0620008CAD30A9BF8C60ABC46DC58E5CA8BC991C0563F390B51BF1CF8533C768D6E1BCFE27FB9C744D1C74B5F810",
+    "sha512sum": "7A94091B0A6162C6B942D008815FDBD139AE9E0E446C40B7C8BE305F1E4436BC4C01598951B29036BC0AEF1A4918ADA49564E98870BA49E2DB5183692E8CFF27",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/irooftopagility-10.1.2.jar?raw=true",
     "requires": "^1.0.0"
