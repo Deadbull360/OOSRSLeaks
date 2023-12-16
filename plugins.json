@@ -188,9 +188,9 @@
   "id": "isandcrabplugin-plugin",
   "releases": [{
     "date": "2023-12-16",
-    "sha512sum": "52637BB04143D7D86C175D9F884DE09EA8D9769FA3EC8BB2311AD5A74E0885B1BE29828D7DDA7E217007B8A115EB7E14ACF1ED36DF20D67CB250F6E6C5DE2F14",
-    "version": "10.1.3",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/isandcrab-10.1.3.jar?raw=true",
+    "sha512sum": "65C16ED02692873449ADC2203E846C0F2C3E5B726CA7CA8CC55F7723BEF51A0A1708A807AA3EA194E790ABADA6264CC39308CF67787C2E507827FF4149261CB3",
+    "version": "10.1.4",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/isandcrab-10.1.4.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
