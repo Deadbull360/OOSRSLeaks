@@ -5,7 +5,7 @@
   "description": "Automatically takes breaks for you (?)",
   "id": "chinbreakhandler-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "8FB94E7646D1EF4AD66B5C742FC587B41E9A316DC6E5AA899DF275F236A57FEABC83D23F81EEDA627A76A0C89AA32E932602A45A0B04A31F443E333F477AE02E",
     "version": "5.0.3",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/chinbreakhandler-5.0.3.jar?raw=true",
@@ -18,7 +18,7 @@
   "description": "Deadbull - Fishing Trawler plugin",
   "id": "ifishingtrawlerplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "B874AD1240E17CFC715C182AEDC3DC2EB5158A16AB58BDCD50CC67A4D67C508079C4F11407F0F9B31859B700B398F0785A7509885AFF1CEF6BE48D3F36822DA1",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ifishingtrawler-10.1.2.jar?raw=true",
@@ -31,7 +31,7 @@
   "description": "Deadbull - Karambwans fisher",
   "id": "ikarambwans-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "1F2367735FA93796EA3E8AABF14BB1553D9CFEB5462258D70C3D5F54AEF42512BD27E30DF3885AD7A0A40D7B87C6428AC559356FA7E3F2CDE3429554EAE87157",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ikarambwans-10.1.2.jar?raw=true",
@@ -44,7 +44,7 @@
   "description": "Deadbull - Displays your ingame cursor info",
   "id": "imouseinfodisplayer-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "ED03604FAA24D507E63B3E83440925A640EF9648C1D015601254E941FBA7E4260F1576BB1D8F8FFBA4C26E3C72EC499D9115C670E00F8AAD61C9536ACA0D084D",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/imouseinfo-10.1.2.jar?raw=true",
@@ -57,7 +57,7 @@
   "description": "Deadbull - Power Cooker plugin",
   "id": "ipowercookerplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "FC5E9119FC5776C08FFBF1DECF4C29EE27396AA26BD44601EE9588D736D0CBA259C60DCCBCF561FFDF72DFDA889B95BCC75158A02015802AFC95366EBF1F6450",
     "version": "10.1.4",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowercooker-10.1.4.jar?raw=true",
@@ -70,10 +70,10 @@
   "description": "Illumine&Deadbull - Powerfighter plugin",
   "id": "ipowerfighterplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
-    "sha512sum": "9B000A6459127D41532DC06083CF3D5D1CF231F49FAE88C6092A71162301BC30FBE798A8E405FFD60457F88F93F2E899E8317ADFEA97DBEEA640A0C241D1FB36",
-    "version": "10.1.2",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfighter-10.1.2.jar?raw=true",
+    "date": "2024-01-29",
+    "sha512sum": "2405C6B0C95D16213F4831DC3A025168B4064EBC9CB472949AF189F3B31F3D61BD9276ECC3679FF4F537725A7CD5B30AB91E432F6991677FAD16D52C022DABB2",
+    "version": "10.1.3",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfighter-10.1.3.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
@@ -83,7 +83,7 @@
   "description": "Deadbull - Powerfisher plugin",
   "id": "ipowerfisherplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "F38D322A822D6110783C75D47F186BBEA319F710D4996D5DD6B05BCDF8A69269C48EDA5826C5ECE5E7EB5DE9F1C669BDFD5A5604A9F28A4005EE5428C8D6FAD3",
     "version": "10.1.4",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerfisher-10.1.4.jar?raw=true",
@@ -96,7 +96,7 @@
   "description": "Deadbull - Powerminer plugin",
   "id": "ipowerminerplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "4CF4EB5A7057C2158B773781E19C07E8369DB3D1624B5B638125954A8D36C2572ED625C6F373BCF91C2581909EE5C18A028FD7C04739EAE5EBEC14364ABB6284",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerminer-10.1.2.jar?raw=true",
@@ -109,7 +109,7 @@
   "description": "Deadbull - Power Thiever plugin",
   "id": "ipowerthieverplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "7DEBCA8A7D56B6F58B7E6F9AE85A13BAB39695C367E1082E5F3BAAFBA35AEA5E0FAC7B6C0A3363FBE3DA759352B1F63479A36FEE7763841431CAB7D662CB45A4",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerthiever-10.1.2.jar?raw=true",
@@ -122,7 +122,7 @@
   "description": "Deadbull - Power Woodcutter plugin",
   "id": "ipowerwoodcutterplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "5A791E92AED7352B973EADB77B82DA7FB028A052CA47F9168AEFCF74DDCF16CD19CC1C362F02C2AAF53B53838B746951B7D918F2E8AB5E4AADCB4C16FED4A4C1",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/ipowerwoodcutter-10.1.2.jar?raw=true",
@@ -135,7 +135,7 @@
   "description": "Illumine&Deadbull - Quest Assistant plugin",
   "id": "iquestassistant-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "21D7B6FDAF9731F4BE2F5D608E3F11C9CACB2657FBD113463843FB4F91D2062B7FB968268FA3D7F0243D54B15B15E75427E70EEE03E51E5ABE022C2D22387B5E",
     "version": "10.1.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iquestassistant-10.1.1.jar?raw=true",
@@ -148,7 +148,7 @@
   "description": "Illumine&Deadbull - Auto eat food, consume potions and equip items",
   "id": "iquickeater-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "5023C263CC2D098BA1A2BB5E69C0AEE0E887E812F1831454F58D5814937B0A0DA1C362F8B6A712940BBAF37C0554A5D4DDC0B198A22EB9A6B0840D1888662D06",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iquickeater-10.1.2.jar?raw=true",
@@ -161,7 +161,7 @@
   "description": "illumine&Deadbull - Dismiss random events and handle genie",
   "id": "irandomhandler-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "64C9BCC9B2DE3FB0F300A426AB0A45DACF044E34AEF2614D8A8FE3B5D9A86C539C74CB8DE8EBD91A2C2A1652C3C3081E2DA795522BF470E1445118B7C09D009D",
     "version": "10.1.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/irandomhandler-10.1.1.jar?raw=true",
@@ -174,7 +174,7 @@
   "description": "Illumine&Deadbull - Automated rooftop agility plugin",
   "id": "irooftopagility-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "7A94091B0A6162C6B942D008815FDBD139AE9E0E446C40B7C8BE305F1E4436BC4C01598951B29036BC0AEF1A4918ADA49564E98870BA49E2DB5183692E8CFF27",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/irooftopagility-10.1.2.jar?raw=true",
@@ -187,10 +187,10 @@
   "description": "Deadbull - SandCrab plugin",
   "id": "isandcrabplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
-    "sha512sum": "65C16ED02692873449ADC2203E846C0F2C3E5B726CA7CA8CC55F7723BEF51A0A1708A807AA3EA194E790ABADA6264CC39308CF67787C2E507827FF4149261CB3",
-    "version": "10.1.4",
-    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/isandcrab-10.1.4.jar?raw=true",
+    "date": "2024-01-29",
+    "sha512sum": "57F110C8CD792AB76882B2B3710595FC65E9393B74326A3B9E10AE0ADA0D9EAEF7C8C25DC568FC98EACD10137197B720EAD7698B07EF6A9A9159C4F5035ECAAF",
+    "version": "10.1.5",
+    "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/isandcrab-10.1.5.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
@@ -200,7 +200,7 @@
   "description": "Illumine&Deadbull - Utils required for plugins to function with added automation",
   "id": "iutils-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "921BA4F551122B666223C12ACE3C8BA56B376A5E8A3EAAE19328B2BE3549ED4BE5375C1755783EAD1560C4DA5F60E84DDD083C596A0BF5FC5C1DDDD6FCB97287",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iutils-10.1.2.jar?raw=true",
@@ -213,7 +213,7 @@
   "description": "Illumine&Deadbull - World Walker plugin",
   "id": "iworldwalkerplugin-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "F70FBC9CCAE62BAA1717279760DAB8C8E1331B6779C0CE6416135DA5E14E9609697EFF0953B019D73FFBC597553290DFA8684D82CC9744C24D44C48E168B7A70",
     "version": "10.1.3",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/iworldwalker-10.1.3.jar?raw=true",
@@ -226,7 +226,7 @@
   "description": "Wintertodt Bot",
   "id": "sswintertodt-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "A985D68669C9626AAD160582F1F3D3FC7BB439ED4717D8F8C50D288F933968865B1BDF0F08801AB88623180E3A94C84B8BD5A5D5654BDB1E2CF4730C139610D9",
     "version": "1.0.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/m-wintertodt-1.0.2.jar?raw=true",
@@ -239,7 +239,7 @@
   "description": "Deadbulls Motherlode Mine bot plugin",
   "id": "motherlodeminebot-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "0FEB53004E67CCBBB3A83A229DD4F9CC4BB92D930980FE3E5E3DE46397133E894CDDC2D292975771735067E8FA943E50A8E5E1F3F2DCC3BD9CFCEB9D2400579D",
     "version": "10.1.2",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/motherlodebot-10.1.2.jar?raw=true",
@@ -252,7 +252,7 @@
   "description": "Arsenal of PKing Tools",
   "id": "pktoolsv-plugin",
   "releases": [{
-    "date": "2023-12-17",
+    "date": "2024-01-29",
     "sha512sum": "65AD0AA6711152B8615CE18D4FE5C77325BB7D15C4E462DD635F0598DACB618C3FCD5159E99E21043DBAB3AFFCB0CD964EF40071F2BB0E24B7630D4CDDB7D8AF",
     "version": "10.1.1",
     "url": "https://github.com/Deadbull360/OOSRSPlugins/blob/main/release/pktools-10.1.1.jar?raw=true",
